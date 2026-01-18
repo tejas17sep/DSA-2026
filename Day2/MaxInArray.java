@@ -19,7 +19,7 @@ public class MaxInArray {
             }
         }
 
-        System.out.println("Maximum element in the array is: " + max);
+        System.out.println("Maximum elem   dfent in the array is: " + max);
         sc.close();
     }
 }
