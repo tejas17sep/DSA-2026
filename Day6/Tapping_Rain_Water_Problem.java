@@ -27,9 +27,10 @@ public class Tapping_Rain_Water_Problem {
     }
 
     public static void main(String[] args){
-          int arr[] = {3,1,2,4,0,1,3,2};
+         // int arr[] = {3,1,2,4,0,1,3,2};
         //int arr[] = {1,2,3,4,5};
         //int arr[] = {5,4,3,2,1};
+        int arr[] = {7,3,0,5,6,4,0,1,2};
         int n = arr.length;
 
         Tapping_Rain_Water_Problem fw = new Tapping_Rain_Water_Problem();
